@@ -1,4 +1,4 @@
-# Prueba técnica - Junior Backend Developer - Aicoll
+# Prueba técnica - Junior Backend Developer - Aicoll - Mateo Yate Gonzalez
 
 Aplicación desarrollada en PHP-MySQL con Bootstrap que busca consumir data de una API especificada en las instrucciones de la prueba y la registra en una BD alojada en MySQL para realizar sobre ella los procesos CRUD.
 
@@ -60,6 +60,10 @@ En este directorio se encuentran los archivos del back que permiten interactuar 
 
 En este directorio se encuentra toda la información relacionada a la base de datos (script de generacion, imagen del modelo relacional, diseño de la base de datos en la herramienta Enterprise Architect).
 
+### /img/
+
+En este directorio se encuentran las imagenes expuestas en este README.
+
 ## Desarrollo y funcionamiento del proyecto
 
 ### Supuestos
@@ -117,4 +121,6 @@ En esta interfaz puede visualizar los datos cargados de la API.
 
 ![Usuario eliminado](https://github.com/mateoyateg/aicollPruebaTecnica/blob/main/img/img6.jpg)
 
+---
+_Proyecto desarrollado para la prueba técnica de la postulación al puesto de Junior Backend Developer en Aicoll._
 
