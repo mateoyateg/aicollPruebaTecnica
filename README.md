@@ -2,6 +2,10 @@
 
 Aplicación desarrollada en PHP-MySQL con Bootstrap que busca consumir data de una API especificada en las instrucciones de la prueba y la registra en una BD alojada en MySQL para realizar sobre ella los procesos CRUD.
 
+## Enunciado
+
+_Desarrollar una aplicación PHP–MySQL para consumir data de la API especificada y mostrarla en una pagina web y el CRUD para administrarla._
+
 ## Comenzando
 
 Para obtener una copia de este proyecto en su máquina local de click al botón **Code** y seleccione *Download ZIP* o ejecute el siguiente comando en la consola de Git.
